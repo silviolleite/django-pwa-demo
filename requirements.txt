@@ -1,2 +1,2 @@
-Django==3.0.7
+Django==3.1.9
 django-pwa==1.0.6
